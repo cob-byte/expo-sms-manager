@@ -386,7 +386,7 @@ MIT
 
 ## Changelog
 
-### Version 1.0.2
+### Version 1.0.3
 
 - Initial release with full SMS sending and receiving capabilities
 - Dual SIM support
