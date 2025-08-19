@@ -1,0 +1,49 @@
+{
+  "name": "expo-sms-manager",
+  "version": "1.0.2",
+  "description": "Complete SMS management module for React Native/Expo - send, receive, and manage SMS messages",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "lint": "expo-module lint",
+    "test": "expo-module test",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "expo-module": "expo-module"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "sms",
+    "sms-sender",
+    "sms-reader",
+    "sms-manager",
+    "dual-sim",
+    "otp",
+    "text-message"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cob-byte/expo-sms-manager"
+  },
+  "bugs": {
+    "url": "https://github.com/cob-byte/expo-sms-manager/issues"
+  },
+  "author": "Jacob Barcelona",
+  "license": "MIT",
+  "homepage": "https://github.com/cob-byte/expo-sms-manager#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/react": "~19.0.0",
+    "expo-module-scripts": "^4.1.10",
+    "expo": "~53.0.0",
+    "react-native": "0.79.1"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}

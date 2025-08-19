@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+  <uses-permission android:name="android.permission.SEND_SMS" />
+  <uses-permission android:name="android.permission.READ_SMS" />
+  <uses-permission android:name="android.permission.RECEIVE_SMS" />
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+  <uses-permission android:name="android.permission.READ_PHONE_NUMBERS" />
+
+  <!-- For Android 12+ to get phone number from SIM -->
+  <uses-permission android:name="android.permission.READ_PHONE_NUMBERS" />
+
+  <!-- Optional: For getting delivery reports -->
+  <uses-permission android:name="android.permission.RECEIVE_MMS" />
+</manifest>
