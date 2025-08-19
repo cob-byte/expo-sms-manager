@@ -368,7 +368,7 @@ Apps using SMS permissions may require additional justification during Play Stor
 
 ## Example App
 
-See the [example folder](./example) for a complete implementation with UI components.
+See the [example app]([./example](https://github.com/cob-byte/expo-sms-manager-example)) for a complete implementation with UI components.
 
 ## Contributing
 
