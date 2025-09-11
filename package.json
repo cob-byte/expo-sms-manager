@@ -1,6 +1,6 @@
 {
   "name": "expo-sms-manager",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Complete SMS management module for React Native/Expo - send, receive, and manage SMS messages",
   "main": "build/index.js",
   "types": "build/index.d.ts",
